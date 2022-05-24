@@ -7,7 +7,7 @@ public class College {
 	}
 	public void collegeCode()
 	{
-		System.out.println("350");
+		System.out.println("352");
 	}
 	public void collegeRank()
 	{
